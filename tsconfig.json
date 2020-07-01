@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "strictPropertyInitialization": false,
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "types": ["node", "jest"],
+    "outDir": "dist",
+    "target": "ES6"
+  },
+  "include": ["src/**/*", "types/**/*", "tests/**/*"],
+  "exclude": ["node_modules"]
+}

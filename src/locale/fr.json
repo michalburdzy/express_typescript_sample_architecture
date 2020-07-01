@@ -1,0 +1,6 @@
+{
+  "exampleMessage": "Example Message [FR]",
+  "accountNotFoundError": "Account not found [FR]",
+  "userNotFoundError": "User not found [FR]",
+  "tooManyResets": "Too many resets [FR]"
+}
